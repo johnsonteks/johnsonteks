@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Johnson Gerald Anderson Teks 👋</h1>
+<h1 align="center">Hi, I'm Johnson Gerald Anderson Teks</h1>
 
-<h3 align="center">Data Enthusiast | Information Systems Graduate</h3>
+<h3 align="center">Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/johnsonteks">
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Information Systems graduate from Telkom University Surabaya with hands-on experience in data analysis, visualization, BI dashboards, ETL, and automation.
 
@@ -20,65 +20,14 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 ---
 
-## 🛠️ Tools & Technologies
-
-### 📊 Data Analysis
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" height="45"/>
-</p>
-
-**Microsoft Excel · SPSS · SQL**
-
-### 🔄 ETL & Data Processing
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-</p>
-
-**Power Query · Pentaho**
-
-### 📈 Data Visualization & BI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-</p>
-
-**Microsoft Excel · Power BI · Tableau · Looker Studio**
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-</p>
-
-**MySQL**
-
-### 🏢 ERP
-**SAP · Odoo · Accurate**
-
-### 🎨 Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" height="45"/>
-</p>
-
-**Canva · Figma**
-
-### 🌐 Web Development & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,github,vscode,postman" height="45"/>
-</p>
-
-**HTML · CSS · JavaScript · Laravel · GitHub · VS Code · Postman**
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnsonteks&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonteks&layout=compact&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,laravel,github,vscode,mysql,figma,postman" height="45"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
@@ -93,14 +42,13 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 ## 📌 Currently
 
-- 🎓 Information Systems Graduate
 - 📊 Interested in Data Analytics & Business Intelligence
 - 📈 Building data-driven projects and dashboards
 - 🔎 Open to Data Analyst opportunities
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://github.com/johnsonteks">
