@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>Hi, I'm Johnson Gerald Anderson Teks</h1>
+<h1>Hai, Saya Johnson Gerald Anderson Teks</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Data+Enthusiast;Data+Enthusiast" alt="Typing Animation">
 
@@ -12,17 +12,31 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 24px; border-radius: 16px;">
 
-Information Systems graduate from **Telkom University Surabaya** with hands-on experience in **data analysis, visualization, BI dashboards, ETL, and automation**.
+<h2>Tentang Saya</h2>
 
-Experienced in developing data-driven solutions through internships, academic projects, and community service, with hands-on experience using **Excel, SQL, Power BI, Tableau, Looker Studio, and Power Query**.
+<table>
+<tr>
+<td width="90%">
 
-I am interested in **Data Analytics, Business Intelligence, Data Visualization, and Data-driven Solutions**.
+Lulusan **Sistem Informasi dari Telkom University Surabaya** dengan pengalaman dalam **analisis data, visualisasi, dashboard BI, ETL, dan otomatisasi**.
+
+Berpengalaman mengembangkan solusi berbasis data melalui kegiatan magang, proyek akademik, dan pengabdian masyarakat, dengan menggunakan **Excel, SQL, Power BI, Tableau, Looker Studio, dan Power Query**.
+
+Saya memiliki ketertarikan pada **Data Analytics, Business Intelligence, Data Visualization, dan Data-driven Solutions**.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<h2 align="center">Tools</h2>
+<div align="center" style="background: linear-gradient(135deg, #111827, #1e293b); padding: 24px; border-radius: 16px;">
+
+<h2>Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,laravel,github,vscode,figma,postman" height="42"/>
@@ -32,32 +46,115 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Proyek</h2>
 
 <div align="center">
 
-| Project                                                                                   | Description                                                                 |
-| :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
-| **[BISINDO-Detection](https://github.com/johnsonteks/BISINDO-Detection)** | Real-time BISINDO alphabet gesture detection using Deep Learning             |
-| **[Dashboard-Microsoft-Excel](https://github.com/johnsonteks/Dashboard-Microsoft-Excel)** | Interactive Excel dashboards and data analysis case studies                 |
-| **[Scraping-Email-Website](https://github.com/johnsonteks/Scraping-Email-Website)** | Web scraper for collecting Google Maps locations and website contact emails |
-| **[Chatbot-WA-RAG](https://github.com/johnsonteks/Chatbot-WA-RAG)** | WhatsApp chatbot using Node.js and RAG                                      |
-| **[Klasifikasi-IKN](https://github.com/johnsonteks/Klasifikasi-IKN)** | Public opinion classification using Machine Learning                         |
-| **[Microservice-Laravel](https://github.com/johnsonteks/Microservice-Laravel)** | Laravel microservices using REST, GraphQL, and RabbitMQ                     |
+<table>
+<tr>
+<td align="center" width="33%">
 
-</div>
+### BISINDO-Detection
+
+Deteksi gestur alfabet BISINDO secara real-time menggunakan Deep Learning.
+
+<br>
+
+<a href="https://github.com/johnsonteks/BISINDO-Detection">
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Dashboard-Microsoft-Excel
+
+Dashboard Excel interaktif dan studi kasus analisis data.
+
+<br>
+
+<a href="https://github.com/johnsonteks/Dashboard-Microsoft-Excel">
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Scraping-Email-Website
+
+Web scraper untuk mengumpulkan lokasi Google Maps dan email kontak website.
+
+<br>
+
+<a href="https://github.com/johnsonteks/Scraping-Email-Website">
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+### Chatbot-WA-RAG
+
+Chatbot WhatsApp menggunakan Node.js dan RAG.
+
+<br>
+
+<a href="https://github.com/johnsonteks/Chatbot-WA-RAG">
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Klasifikasi-IKN
+
+Klasifikasi opini publik menggunakan Machine Learning.
+
+<br>
+
+<a href="https://github.com/johnsonteks/Klasifikasi-IKN">
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### Microservice-Laravel
+
+Microservices Laravel menggunakan REST, GraphQL, dan RabbitMQ.
+
+<br>
+
+<a href="https://github.com/johnsonteks/Microservice-Laravel">
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <a href="https://github.com/johnsonteks?tab=repositories">
-<b>View All Repositories</b>
+<b>Lihat Semua Repositori</b>
 </a>
 </p>
 
+</div>
+
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Terhubung</h2>
 
 <p align="center">
 
@@ -75,6 +172,6 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=16&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=550&lines=Analyzing+data...;Finding+patterns...;Building+insights...;Case+closed." alt="Detective Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=16&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=550&lines=Menganalisis+data...;Menemukan+pola...;Membangun+insight...;Kasus+ditutup." alt="Detective Animation">
 
 </div>
