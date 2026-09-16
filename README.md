@@ -12,8 +12,6 @@
 
 <img src="./johnson_case_01.gif" width="100%">
 
-## About Me
-
 Information Systems graduate from Telkom University Surabaya with hands-on experience in data analysis, visualization, BI dashboards, ETL, and automation.
 
 Experienced in developing data-driven solutions through internships, academic projects, and community service, with hands-on experience using **Excel, SQL, Power BI, Tableau, Looker Studio, and Power Query**.
@@ -24,8 +22,6 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 <img src="./johnson_case_02.gif" width="100%">
 
-### Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,laravel,github,vscode,mysql,figma,postman" height="45"/>
 </p>
@@ -33,8 +29,6 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 ---
 
 <img src="./johnson_case_03.gif" width="100%">
-
-## Featured Projects
 
 | Project | Description |
 |---|---|
@@ -55,8 +49,6 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 <img src="./johnson_case_04.gif" width="100%">
 
-## 📌 Currently
-
 - 📊 Interested in Data Analytics & Business Intelligence
 - 📈 Building data-driven projects and dashboards
 - 🔎 Open to Data Analyst opportunities
@@ -64,8 +56,6 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 ---
 
 <img src="./johnson_case_05.gif" width="100%">
-
-## Connect With Me
 
 <p>
   <a href="https://github.com/johnsonteks">
