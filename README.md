@@ -39,11 +39,15 @@ Saya memiliki ketertarikan pada **Data Analytics, Business Intelligence, Data Vi
 <h2>Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,laravel,github,vscode,figma,postman" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,laravel,github,vscode,figma,postman" height="52"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" height="38"/> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" height="38"/> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=F2C811&color=F2C811" height="38"/> 
+  <img src="https://img.shields.io/badge/Data_Studio-4285F4?style=for-the-badge" height="38"/> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" height="38"/>
 </p>
 
 </div>
@@ -65,7 +69,7 @@ Deteksi gestur alfabet BISINDO secara real-time menggunakan Deep Learning.
 <br>
 
 <a href="https://github.com/johnsonteks/BISINDO-Detection">
-<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 </td>
@@ -79,7 +83,7 @@ Dashboard Excel interaktif dan studi kasus analisis data.
 <br>
 
 <a href="https://github.com/johnsonteks/Dashboard-Microsoft-Excel">
-<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 </td>
@@ -93,7 +97,7 @@ Web scraper untuk mengumpulkan lokasi Google Maps dan email kontak website.
 <br>
 
 <a href="https://github.com/johnsonteks/Scraping-Email-Website">
-<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 </td>
@@ -109,7 +113,7 @@ Chatbot WhatsApp menggunakan Node.js dan RAG.
 <br>
 
 <a href="https://github.com/johnsonteks/Chatbot-WA-RAG">
-<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 </td>
@@ -123,7 +127,7 @@ Klasifikasi opini publik menggunakan Machine Learning.
 <br>
 
 <a href="https://github.com/johnsonteks/Klasifikasi-IKN">
-<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 </td>
@@ -137,7 +141,7 @@ Microservices Laravel menggunakan REST, GraphQL, dan RabbitMQ.
 <br>
 
 <a href="https://github.com/johnsonteks/Microservice-Laravel">
-<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
 </td>
