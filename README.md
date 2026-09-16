@@ -10,6 +10,10 @@
 
 ---
 
+<div align="center">
+  <img src="./about-me.gif" width="90%">
+</div>
+
 Information Systems graduate from Telkom University Surabaya with hands-on experience in data analysis, visualization, BI dashboards, ETL, and automation.
 
 Experienced in developing data-driven solutions through internships, academic projects, and community service, with hands-on experience using **Excel, SQL, Power BI, Tableau, Looker Studio, and Power Query**.
@@ -18,11 +22,19 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 ---
 
+<div align="center">
+  <img src="./tools.gif" width="90%">
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,laravel,github,vscode,mysql,figma,postman" height="45"/>
 </p>
 
 ---
+
+<div align="center">
+  <img src="./projects.gif" width="90%">
+</div>
 
 <div align="center">
 
@@ -45,11 +57,19 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 ---
 
+<div align="center">
+  <img src="./interests-goals.gif" width="90%">
+</div>
+
 - 📊 Interested in Data Analytics & Business Intelligence
 - 📈 Building data-driven projects and dashboards
 - 🔎 Open to Data Analyst opportunities
 
 ---
+
+<div align="center">
+  <img src="./connect.gif" width="90%">
+</div>
 
 <p align="center">
   <a href="https://github.com/johnsonteks">
