@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I'm Johnson Gerald Anderson Teks</h1>
+<div align="center">
 
-<h3 align="center">Data Enthusiast</h3>
+<img src="./johnson_detective_readme.gif" width="100%">
+
+<h1>Hi, I'm Johnson Gerald Anderson Teks</h1>
+
+<h3>Data Enthusiast</h3>
+
+</div>
 
 ---
 
@@ -31,6 +37,12 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 | [Chatbot-WA-RAG](https://github.com/johnsonteks/Chatbot-WA-RAG) | WhatsApp chatbot using Node.js and RAG |
 | [Klasifikasi-IKN](https://github.com/johnsonteks/Klasifikasi-IKN) | Public opinion classification using Machine Learning |
 | [Microservice-Laravel](https://github.com/johnsonteks/Microservice-Laravel) | Laravel microservices using REST, GraphQL, and RabbitMQ |
+| [Livestock-Data-Automation](https://github.com/johnsonteks) | Data-driven livestock monitoring, dashboard, and automation system |
+| [Prediction-Chicken-Meat-Prices](https://github.com/johnsonteks) | Chicken meat price prediction using ETL and Python |
+| [AR-Sheep-Recognition](https://github.com/johnsonteks) | Augmented Reality-based sheep type recognition for educational tourism |
+| [CCTV-Monitoring-Dashboard](https://github.com/johnsonteks) | Monitoring dashboard for CCTV data and operational activities |
+| [Customer-Service-Chatbot](https://github.com/johnsonteks) | Customer service chatbot for automated information delivery |
+| [Eduwisata-Website](https://github.com/johnsonteks) | Website development for livestock-based educational tourism |
 
 ---
 
