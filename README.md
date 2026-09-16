@@ -10,6 +10,8 @@
 
 ---
 
+<img src="./johnson_case_01.gif" width="100%">
+
 ## About Me
 
 Information Systems graduate from Telkom University Surabaya with hands-on experience in data analysis, visualization, BI dashboards, ETL, and automation.
@@ -20,12 +22,17 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 
 ---
 
+<img src="./johnson_case_02.gif" width="100%">
+
 ### Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,laravel,github,vscode,mysql,figma,postman" height="45"/>
 </p>
 
 ---
+
+<img src="./johnson_case_03.gif" width="100%">
 
 ## Featured Projects
 
@@ -37,14 +44,16 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 | [Chatbot-WA-RAG](https://github.com/johnsonteks/Chatbot-WA-RAG) | WhatsApp chatbot using Node.js and RAG |
 | [Klasifikasi-IKN](https://github.com/johnsonteks/Klasifikasi-IKN) | Public opinion classification using Machine Learning |
 | [Microservice-Laravel](https://github.com/johnsonteks/Microservice-Laravel) | Laravel microservices using REST, GraphQL, and RabbitMQ |
-| [Livestock-Data-Automation](https://github.com/johnsonteks) | Data-driven livestock monitoring, dashboard, and automation system |
-| [Prediction-Chicken-Meat-Prices](https://github.com/johnsonteks) | Chicken meat price prediction using ETL and Python |
-| [AR-Sheep-Recognition](https://github.com/johnsonteks) | Augmented Reality-based sheep type recognition for educational tourism |
-| [CCTV-Monitoring-Dashboard](https://github.com/johnsonteks) | Monitoring dashboard for CCTV data and operational activities |
-| [Customer-Service-Chatbot](https://github.com/johnsonteks) | Customer service chatbot for automated information delivery |
-| [Eduwisata-Website](https://github.com/johnsonteks) | Website development for livestock-based educational tourism |
+
+<p align="center">
+  <a href="https://github.com/johnsonteks?tab=repositories">
+    <b>→ View All Repositories</b>
+  </a>
+</p>
 
 ---
+
+<img src="./johnson_case_04.gif" width="100%">
 
 ## 📌 Currently
 
@@ -53,6 +62,8 @@ I am interested in **Data Analytics, Business Intelligence, Data Visualization, 
 - 🔎 Open to Data Analyst opportunities
 
 ---
+
+<img src="./johnson_case_05.gif" width="100%">
 
 ## Connect With Me
 
