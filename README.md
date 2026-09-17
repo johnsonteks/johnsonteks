@@ -120,13 +120,13 @@ Chatbot WhatsApp menggunakan Node.js dan RAG.
 
 <td align="center" width="33%">
 
-### Klasifikasi-IKN
+### IKN-Classification
 
 Klasifikasi opini publik menggunakan Machine Learning.
 
 <br>
 
-<a href="https://github.com/johnsonteks/Klasifikasi-IKN">
+<a href="https://github.com/johnsonteks/IKN-Classification">
 <img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
