@@ -92,7 +92,7 @@ Dashboard Excel interaktif dan studi kasus analisis data.
 
 ### Tebet-House-Prediction
 
-Prediksi harga rumah di Tebet menggunakan Linear Regression berdasarkan luas bangunan, luas tanah, kamar, dan garasi.
+Prediksi harga rumah di Tebet menggunakan Linear Regression.
 
 <br>
 
