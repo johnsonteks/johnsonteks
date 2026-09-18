@@ -90,13 +90,13 @@ Dashboard Excel interaktif dan studi kasus analisis data.
 
 <td align="center" width="33%">
 
-### Scraping-Email-Website
+### Tebet-House-Price-Prediction
 
-Web scraper untuk mengumpulkan lokasi Google Maps dan email kontak website.
+Prediksi harga rumah di Tebet, Jakarta Selatan menggunakan Linear Regression berdasarkan luas bangunan, luas tanah, kamar, dan garasi.
 
 <br>
 
-<a href="https://github.com/johnsonteks/Scraping-Email-Website">
+<a href="https://github.com/johnsonteks/Tebet-House-Price-Prediction">
 <img src="https://img.shields.io/badge/Lihat%20Proyek-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
 </a>
 
